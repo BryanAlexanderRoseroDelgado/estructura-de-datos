@@ -1,0 +1,16 @@
+Cedula: 2213123231
+Nombre: Asdfad
+Apellido: Asdfa
+ -> NULL
+Cedula: 2213123231
+Nombre: Asdfad
+Apellido: Asdfa
+ -> NULL
+Cedula: 4315135155
+Nombre: Adsada
+Apellido: Asdasd
+ -> NULL
+Cedula: 5131515131
+Nombre: Asargst
+Apellido: Dfghd
+ -> NULL
