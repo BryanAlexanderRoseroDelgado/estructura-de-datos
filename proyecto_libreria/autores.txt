@@ -1,0 +1,9 @@
+Osvaldo,Tobar,Ismael,Torres,Colombia,1932-08-06
+Maria,Flores,Camila,Rodriguez,Peru,1960-05-05
+Juanito,Perez,Rodrigo,Martinez,Peruano,1905-07-11
+Juanito,Cazares,Jj,Perez,Chileno,2024-12-31
+Jose,Gonzales,Martin,Castillo,Peruano,2005-05-08
+Asdfa,Asdfa,Adasdf,Asdfa,Asdf,2023-10-12
+Baston,Palo,,,Portugal,1987-08-18
+Rrrrr,Yyyyy,,,Sssss,1998-09-15
+Victoria,Diaz,Cameron,Caisaluiza,Ecuatoriana,2003-03-20
